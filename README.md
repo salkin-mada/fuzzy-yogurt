@@ -16,7 +16,7 @@ it does not include development packages.
 
 * install [yay](https://github.com/Jguer/yay)
     ```
-    git clone https://github.com/Jguer/yay.git
+    git clone https://aur.archlinux.org/yay.git
     cd yay
     makepkg -si
     ```
