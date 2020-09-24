@@ -77,7 +77,7 @@ declare -a repo
 declare -a not_supported_repo
 declare -a tmp_array
 
-supported_repositories='core|extra|community|aur'
+supported_repositories='testing|core|extra|community|multilib|dvzrv|aur'
 margin=2,3 # default margin
 
 check_supported_repo() {
